@@ -1,0 +1,8 @@
+{
+  "name": "CyberXGreen Menu",
+  "description": "High-tech interactive digital food menu and ordering dashboard for CYBERXGREEN restaurant featuring cyber burgers, rolls, dogs, appetizers, and custom modular sauces system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
